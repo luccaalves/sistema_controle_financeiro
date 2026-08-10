@@ -1,4 +1,4 @@
-# 🍊💰 Sistema Financeiro Web - Fluxo de Caixa
+## 💰 Sistema Financeiro Web - Fluxo de Caixa
 
 Projeto desenvolvido com foco em Back-End em PHP, simulando um Sistema Básico de Controle de Movimentações Financeiras (Fluxo de Caixa).
 
